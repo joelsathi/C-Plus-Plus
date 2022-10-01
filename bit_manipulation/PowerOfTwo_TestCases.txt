@@ -1,0 +1,23 @@
+TC #1:
+-1
+OUTPUT => NO
+
+TC #2:
+1
+OUTPUT => YES
+
+TC #3:
+5
+OUTPUT => NO
+
+TC #4:
+8
+OUTPUT => YES
+
+TC #5:
+1024
+OUTPUT => YES
+
+TC #6:
+1033
+OUTPUT => NO
